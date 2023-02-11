@@ -17,5 +17,12 @@ The boilerplate contains:
     - tabs 3, 4 and 5: empty tabs to write your code
     - tab 6: a tab for helper functions
 
+### Instructions
+
+1. Clone or download the repository
+2. Copy the `template.p8` file to a directory where you will save your project
+3. Rename the `template.p8` files to whatever you need, for example `game.p8`
+4. Load your renamed file (for example `game.p8`) in PICO-8
+
 ~  
 2023. Isaac Benitez
