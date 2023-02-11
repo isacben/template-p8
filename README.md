@@ -1,1 +1,21 @@
 # template-p8
+
+template.p8 is a simple boilerplate project for a PICO-8 videogame. 
+
+The boilerplate contains:
+
+* The `_init()`, `_update()` and `_draw()` functions
+* A simple state machine for the general game:
+    - Title screen state
+    - Playing (in-game) state
+    - Game over state
+    - Sample code to switch between states
+* Pre arrange tabs for the PICO-8 code editor:
+    - tab 0: the `_init()`, `_update()` and `_draw()` functions
+    - tab 1: the update tab with the state machine
+    - tab 2: the draw tab with the state machine
+    - tabs 3, 4 and 5: empty tabs to write your code
+    - tab 6: a tab for helper functions
+
+~  
+2023. Isaac Benitez
