@@ -16,6 +16,7 @@ The boilerplate contains:
     - tab 2: the draw tab with the state machine
     - tabs 3, 4 and 5: empty tabs to write your code
     - tab 6: a tab for helper functions
+* A helper function `cprint()` to print centered text
 
 ### Instructions
 
